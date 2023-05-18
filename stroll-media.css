@@ -338,10 +338,12 @@
 
     .g-img h3{
         top: 70%;
+        font-size: 25px;
     }
 
     .g-img p{
-        top: 85%;
+        top: 80%;
+        font-size: 17px;
     }
 
     .container, .container5{
