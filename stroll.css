@@ -228,8 +228,6 @@ button:hover{
     border-radius: 5px ;
 }
 
-
-
 .img1{
     background-image: url(./wepik-export-20230509015429ZuJU.png);
 }
@@ -347,6 +345,10 @@ button:hover{
 
 .container7 input[type='submit']:hover{
     background-color: #DB162F;
+}
+
+input, select{
+    outline: none;
 }
 
 .form-div{
