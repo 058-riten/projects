@@ -336,6 +336,14 @@
         grid-template-rows: repeat(6,370px);
     }
 
+    .g-img h3{
+        top: 70%;
+    }
+
+    .g-img p{
+        top: 85%;
+    }
+
     .container, .container5{
         width: 330px;
     }
@@ -363,7 +371,7 @@
 
 @media (max-width:400px) {
     .grid-images{
-        grid-template-columns: 90%;
+        grid-template-columns: 100%;
         grid-template-rows: repeat(6,100vw);
     }
 
@@ -372,16 +380,16 @@
     }
 
     .form-div{
-        grid-template-columns: 90%;
+        grid-template-columns: 100%;
         grid-template-rows: repeat(6,100px);
     }
 
     .container7 select, .container7 input, .container7 label{
-        width: 90%;
+        width: 100%;
     }
 
     .sub-div8 input[type='email'], .sub-div8 input[type='submit']{
-        width: 90%;
+        width: 100%;
     }
 
     .ig-grid{
